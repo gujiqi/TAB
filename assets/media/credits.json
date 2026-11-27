@@ -1,0 +1,123 @@
+[
+  {
+    "file": "hero.webp",
+    "title": "Mossy Forest Floor",
+    "titleZh": "森林地表的藓类孢子体",
+    "author": "Stefanie Leuker",
+    "source": "https://commons.wikimedia.org/wiki/File:Mossy_Forest_Floor_%2860670374%29.jpeg",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "WebP conversion. Layout may crop the edges.",
+    "changesZh": "转换为 WebP。页面可能裁切边缘。"
+  },
+  {
+    "file": "moss.webp",
+    "title": "Haircap moss with capsules",
+    "titleZh": "具有孢蒴的金发藓属植物",
+    "author": "Christian Fischer",
+    "source": "https://commons.wikimedia.org/wiki/File:PolytrichumSpec2.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "WebP conversion. Layout may crop the edges.",
+    "changesZh": "转换为 WebP。页面可能裁切边缘。"
+  },
+  {
+    "file": "liverwort.webp",
+    "title": "Marchantia polymorpha with gemmae",
+    "titleZh": "地钱的叶状体及芽胞",
+    "author": "Holger Casselmann",
+    "source": "https://commons.wikimedia.org/wiki/File:Marchantia_polymorpha_HC2.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "WebP conversion. Layout may crop the edges.",
+    "changesZh": "转换为 WebP。页面可能裁切边缘。"
+  },
+  {
+    "file": "hornwort.webp",
+    "title": "Anthoceros sp.",
+    "titleZh": "角苔属植物",
+    "author": "Bramadi Arya",
+    "source": "https://commons.wikimedia.org/wiki/File:Anthoceros_sp.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "WebP conversion. Layout may crop the edges.",
+    "changesZh": "转换为 WebP。页面可能裁切边缘。"
+  },
+  {
+    "file": "cells.webp",
+    "title": "Leaf cells of Plagiomnium undulatum in brightfield",
+    "titleZh": "Plagiomnium undulatum 叶细胞明场显微照片",
+    "author": "Dietzel65",
+    "source": "https://commons.wikimedia.org/wiki/File:Zz_Plagiomnium_undulatum_fluorescence.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Upper brightfield panel cropped from the two-panel original. WebP conversion; layout may crop the edges.",
+    "changesZh": "截取原图的上半幅明场显微照片，转换为 WebP。页面可能裁切边缘。"
+  },
+  {
+    "file": "habitat.webp",
+    "title": "Mossy Forest (Olympic National Park)",
+    "titleZh": "奥林匹克国家公园的苔藓森林",
+    "author": "stevehfung",
+    "source": "https://commons.wikimedia.org/wiki/File:Mossy_Forest_%28Olympic_National_Park%29.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "changes": "WebP conversion. Layout may crop the edges.",
+    "changesZh": "转换为 WebP。页面可能裁切边缘。"
+  },
+  {
+    "file": "globe.webp",
+    "title": "The Blue Marble (AS17-148-22727)",
+    "titleZh": "蓝色弹珠（AS17-148-22727）",
+    "author": "Apollo 17 crew / NASA Johnson Space Center",
+    "source": "https://science.nasa.gov/resource/the-blue-marble/",
+    "license": "Public domain in the United States (NASA)",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "changes": "Resized and converted to WebP. Photograph taken on 7 December 1972.",
+    "changesZh": "摄于 1972 年 12 月 7 日，缩放并转换为 WebP。"
+  },
+  {
+    "file": "logo.webp",
+    "title": "TAB project identity",
+    "titleZh": "TAB 项目标志",
+    "author": "TAB",
+    "source": "",
+    "license": "Project-supplied artwork",
+    "licenseUrl": "",
+    "changes": "Cropped and resized from the supplied transparent project artwork.",
+    "changesZh": "由项目提供的透明标志裁切并调整尺寸。"
+  },
+  {
+    "file": "brand.webp",
+    "title": "TAB project identity",
+    "titleZh": "TAB 项目标志",
+    "author": "TAB",
+    "source": "",
+    "license": "Project-supplied artwork",
+    "licenseUrl": "",
+    "changes": "Cropped and resized from the supplied transparent project artwork.",
+    "changesZh": "由项目提供的透明标志裁切并调整尺寸。"
+  },
+  {
+    "file": "favicon.png",
+    "title": "TAB project identity",
+    "titleZh": "TAB 项目标志",
+    "author": "TAB",
+    "source": "",
+    "license": "Project-supplied artwork",
+    "licenseUrl": "",
+    "changes": "Cropped and resized from the supplied transparent project artwork.",
+    "changesZh": "由项目提供的透明标志裁切并调整尺寸。"
+  },
+  {
+    "file": "share.jpg",
+    "title": "TAB social preview · Mossy Forest Floor",
+    "titleZh": "TAB 分享预览 · 森林地表的藓类孢子体",
+    "author": "Stefanie Leuker (photograph) · TAB (project identity)",
+    "source": "https://commons.wikimedia.org/wiki/File:Mossy_Forest_Floor_%2860670374%29.jpeg",
+    "license": "CC0 1.0 (photograph)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Photograph cropped with an overlaid colour wash, project title and project-supplied TAB mark. CC0 applies to the photograph.",
+    "changesZh": "摄影作品经裁切，叠加色层、项目名称和项目提供的 TAB 标志。CC0 适用于摄影作品。"
+  }
+]

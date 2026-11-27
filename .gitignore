@@ -1,0 +1,15 @@
+# Private local inputs, generated files and QA outputs
+/private/
+/.qa/
+/dist/
+/node_modules/
+*.xlsx
+*.xls
+*.docx
+*.pptx
+*.csv
+*.tsv
+*.env
+.env*
+__pycache__/
+
